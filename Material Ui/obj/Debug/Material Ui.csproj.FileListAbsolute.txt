@@ -1,0 +1,15 @@
+C:\Users\Spence\source\repos\Material Ui\Material Ui\bin\Debug\Material Ui.exe.config
+C:\Users\Spence\source\repos\Material Ui\Material Ui\bin\Debug\Material Ui.exe
+C:\Users\Spence\source\repos\Material Ui\Material Ui\bin\Debug\Material Ui.pdb
+C:\Users\Spence\source\repos\Material Ui\Material Ui\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Spence\source\repos\Material Ui\Material Ui\obj\Debug\Material Ui.csprojResolveAssemblyReference.cache
+C:\Users\Spence\source\repos\Material Ui\Material Ui\obj\Debug\Material_Ui.Form1.resources
+C:\Users\Spence\source\repos\Material Ui\Material Ui\obj\Debug\Material_Ui.Properties.Resources.resources
+C:\Users\Spence\source\repos\Material Ui\Material Ui\obj\Debug\Material Ui.csproj.GenerateResource.Cache
+C:\Users\Spence\source\repos\Material Ui\Material Ui\obj\Debug\Material Ui.csproj.CoreCompileInputs.cache
+C:\Users\Spence\source\repos\Material Ui\Material Ui\obj\Debug\Material Ui.exe
+C:\Users\Spence\source\repos\Material Ui\Material Ui\obj\Debug\Material Ui.pdb
+C:\Users\Spence\source\repos\Material Ui\Material Ui\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Spence\source\repos\Material Ui\Material Ui\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Spence\source\repos\Material Ui\Material Ui\obj\Debug\Material_Ui.notifyCard.resources
+C:\Users\Spence\source\repos\Material Ui\Material Ui\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
